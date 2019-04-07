@@ -1,0 +1,8 @@
+environment	13
+future	7
+green	2
+health	9
+innovation	2
+safety	2
+scholarship	1
+sports	1
